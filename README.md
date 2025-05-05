@@ -12,3 +12,6 @@ Extreme Anti Parsing Techniques<br>
 Logic Traps<br>
 And More...
 </p>
+<p>
+Suspected Obfuscator Used: Closure Compiler (Private Variant)
+</p>
